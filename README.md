@@ -28,4 +28,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=medranmateo&show_icons=true&locale=en&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40" alt="medranmateo" bg_color=#808080 /></p>
 
+<div align="center">
+  <a href="https://medranmateo.github.io/medranmateo/">
+  <img  src="https://github.com/medranmateo/medranmateo/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medranmateo&label=Profile%20views&color=0e75b6&style=flat" alt="medranmateo" /> </p>
