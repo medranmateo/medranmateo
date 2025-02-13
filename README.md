@@ -34,7 +34,7 @@
   <tr>
       <td align="center" width="96">
       <a href="#html5">
-        <img src="https://es.m.wikipedia.org/wiki/HTML5#/media/Archivo%3AHTML5_logo_and_wordmark.svg" width="48" height="48" alt="Html5" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="48" height="48" alt="Html5" />
       </a>
       <br>Html5
     </td>
