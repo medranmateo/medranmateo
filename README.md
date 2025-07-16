@@ -22,9 +22,9 @@
 
 - 📫 How to reach me **medranmateo@gmail.com**
 
-<div align="center">
+<div align="left">
   <h1>Connect with me: </h1>
-  <p align="center">
+  <p align="left">
   <a href="https://twitter.com/mateomedran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mateomedran" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/mateo-jonas-medran/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mateo-jonas-medran/" height="30" width="40" /></a>
   <a href="mailto:mateojonasmedran@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="mateojonasmedran@gmail.com
@@ -32,8 +32,8 @@
   </p>
 </div>
 
-<h1 align="center">Languages and Tools: </h1>
-<table align="center">
+<h1 align="left">Languages and Tools: </h1>
+<table align="left">
   <tr>
       <td align="center" width="96">
       <a href="#html5">
