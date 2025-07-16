@@ -119,9 +119,9 @@
     </td>
      <td align="center" width="96">
       <a href="#digitalocean">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" width="48" height="48" alt="Digital Ocean" />
+        <img src="https://es.wikipedia.org/wiki/Node.js#/media/Archivo:Node.js_logo.svg" width="48" height="48" alt="Digital Ocean" />
       </a>
-      <br>Digital Ocean
+      <br>Node.js
     </td>
       <td align="center" width="96">
       <a href="#git" >
