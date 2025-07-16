@@ -119,7 +119,7 @@
     </td>
      <td align="center" width="96">
       <a href="#digitalocean">
-        <img src="https://www.clipartmax.com/png/middle/87-879058_formation-node-js-node-js-logo-vector.png" width="48" height="48" alt="Digital Ocean" />
+        <img src="https://img.icons8.com/win10/600/FFFFFF/node-js.png" width="48" height="48" alt="Digital Ocean" />
       </a>
       <br>Node.js
     </td>
