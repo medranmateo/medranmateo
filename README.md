@@ -10,7 +10,7 @@
 </div>
 
 
-- 🔭 I’m currently working on **MusiMundo**
+- 🔭 Currently, I work as a **.NET & Angular developer**
 
 - 🌱 I’m currently learning **Frameworks, English various courses on software development**
 
