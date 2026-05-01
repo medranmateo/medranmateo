@@ -25,7 +25,6 @@
 <div align="left">
   <h1>Connect with me: </h1>
   <p align="left">
-  <a href="https://twitter.com/mateomedran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mateomedran" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/mateo-jonas-medran/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mateo-jonas-medran/" height="30" width="40" /></a>
   <a href="mailto:mateojonasmedran@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="mateojonasmedran@gmail.com
   " height="30" width="40" /></a>
@@ -43,7 +42,7 @@
     </td>
     <td align="center" width="96">
       <a href="#css3">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="48" height="48" alt="Css3" />
       </a>
       <br>CSS3
     </td>
@@ -55,7 +54,7 @@
     </td>
      <td align="center" width="96">
       <a href="#js">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="48" height="48" alt="javascript" />
       </a>
       <br>Javascript
     </td>
@@ -108,7 +107,7 @@
     </td>
     <td align="center" width="96">
       <a href="#ts">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
